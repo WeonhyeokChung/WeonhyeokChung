@@ -3,6 +3,7 @@ Hello, I am **Weonhyeok Chung**, student in Economics at the University of Houst
 
 (Under Construction) Data Science Portfolio
 
-Data Science (ML)
-Software Engineering
-Econometrics
+- **Causal Inference**
+- **Machine Learning**
+- **Econometrics**
+- **Software Engineering**
